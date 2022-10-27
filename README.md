@@ -1,1 +1,3 @@
-# react-native-firstapp
+# React Native-Firstapp
+
+Follow this https://www.youtube.com/watch?v=VozPNrt-LfE
